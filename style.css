@@ -1,0 +1,23 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+table.schedule {
+    background: white;
+    border: 10px outset rgb(153, 0 153);
+    font-size: 0.75em;
+    width: 100%;
+    border-collapse: collapse;
+}
+table.schedule th, table.schedule td {
+    border: 1px solid gray;
+}
+table.schedule thead {
+    background-color: rgb(196, 63, 63);
+    color: white;
+}
+col#firstcol {
+    background-color: rgb(205, 163, 163);
+}
+col.dayCols {
+    background-color: rgb(255, 255, 255);
+}
